@@ -1,11 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T17:27:21.346Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 YaBrowser/22.1.0.2510 Yowser/2.5 Safari/537.36" etag="sagAMYaIRrOcwvW8ukkG" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T22:41:29.287Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9co6JW1aoqUpuZiwAmSo" version="24.3.0" type="github">
   <diagram name="Страница — 1" id="T17Crk3AObRxLtV4Jqa8">
-    <mxGraphModel dx="2074" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="U-bjwP35zErADgLvmT5O-1" value="Алгоритмы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U-bjwP35zErADgLvmT5O-1" value="Алгоритмы" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="phXFzuW3k4BiJqIyhgy8-1" value="Проблема обработки очереди с таймаутом и сохранением состояния" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="phXFzuW3k4BiJqIyhgy8-2" value="Проблема взаимной блокировки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="phXFzuW3k4BiJqIyhgy8-3" value="Double Check" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="phXFzuW3k4BiJqIyhgy8-4" value="Reactor Publisher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="phXFzuW3k4BiJqIyhgy8-5" value="CompletableFeature" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
